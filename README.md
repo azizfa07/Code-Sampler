@@ -1,3 +1,3 @@
 # Code-Sampler
 
-Proses saya dalam belajar php
+Proses saya dalam belajar PHP dan Java Script
